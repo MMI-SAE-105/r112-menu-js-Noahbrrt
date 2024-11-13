@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :Barret
+- prénom : Noah
+- URL Netlify : https://tp2noahbarret.netlify.app
 
 # Travail
 
